@@ -1,4 +1,8 @@
-# sistema-gestao-olimpiadas
+# Sistema de Gestao das Olimpiadas
+
+# Alunos
+- Caue Afonso Moraes
+- Vitor Veiga Silva
 **Historias de usuario**
 
 US01 – Cadastro de competições
@@ -48,3 +52,19 @@ US08 – Consulta à agenda de competições
 Como Atleta,
 eu quero consultar a agenda das competições com datas e locais,
 para que eu saiba quando e onde preciso estar.
+
+
+## Diagrama de Casos de Uso
+![Diagrama de Casos de Uso](./Imagens/Diagrama%20de%20Casos%20de%20Uso.png)
+
+## Diagrama de Classes
+![Diagrama de Classes](./Imagens/Diagrama%20de%20Classes.png)
+
+## Diagrama de Componentes
+![Diagrama de Componentes](./Imagens/Diagrama%20de%20Componentes.png)
+
+## Diagrama de Implantação
+![Diagrama de Implantação](./Imagens/Diagrama%20de%20Implantacao.png)
+
+## Diagrama de Pacotes
+![Diagrama de Pacotes](./Imagens/Diagrama%20de%20Pacotes.png)
