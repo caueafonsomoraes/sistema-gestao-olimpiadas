@@ -3,7 +3,8 @@
 # Alunos
 - Caue Afonso Moraes
 - Vitor Veiga Silva
-**Historias de usuario**
+
+# Historias de usuario
 
 US01 – Cadastro de competições
 
